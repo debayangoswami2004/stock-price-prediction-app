@@ -1,1 +1,1 @@
-# stock-price-prediction-app
+# Some chaneges till needed
